@@ -15,6 +15,12 @@ angular.module('wakanda-server-doc')
         imageUrl: './images/data.png',
         link: '#/doc/data'
       },
+       {
+        name: 'DATA FRED',
+        description: '',
+        imageUrl: './images/data.png',
+        link: '#/doc/data'
+      },
       {
         name: 'AUTHENTICATION',
         description: '',
